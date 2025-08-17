@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.eggs
+*.env
+.env
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Other
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+
+# Secrets
+*.env
+*.secret
+
+# Token files
+*.token
